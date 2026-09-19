@@ -1,16 +1,9 @@
 // ===== බහුකාර්ය OMDb Keys =====
-
-export const OMDB_KEYS = ['7a316873', '51e44f67'];
-
-
+export const OMDB_KEYS = ['7a316873', '51e44f67', '5f3af4f0'];
 
 export const SUBDL_KEY = 'subdl_4M8I70ru8mbUim5eaHftWWlLvfSC5DUs64kioqp6igs';
-
 export const OPENSUB_API_KEY = 'bqdHXy0PfXYKXVai3bIRDkANyZpeLtSG';
-
 export const WYZIE_KEY = 'wyzie-py8u0ol1g1xb60pf3z1kiy3ylweuug1l'; 
-
-
 
 // ===== HARDCODED EPISODES & MOVIES DATA (Download & Watch Links) =====
 
