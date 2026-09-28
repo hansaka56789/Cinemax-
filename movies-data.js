@@ -1,5 +1,5 @@
 // ===== CINESUBZ LIVE API =====
-export const CINESUBZ_API_BASE = 'https://sufficiently-advances-operating-relations.trycloudflare.com';
+export const CINESUBZ_API_BASE = 'https://convertible-comfortable-keno-open.trycloudflare.com/docs';
 
 // API Functions
 export const CinesubzAPI = {
